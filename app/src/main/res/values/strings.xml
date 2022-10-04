@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OfmdQuiz</string>
+    <string name="question_one">Stede Bonnet is The Gentleman Pirate</string>
+    <string name="question_two">Blackbeard\'s real name is Edward Teach</string>
+    <string name="question_three">Jim is not a mermaid</string>
+    <string name="question_four">Stede Bonnet pay\'s his crew a salary</string>
+    <string name="question_five">The Gentleman Pirate knew how to sail</string>
+    <string name="question_six">Blackbeard\'s ship is named The Revenge</string>
+    <string name="question_seven">Lucius has ten fingers</string>
+    <string name="question_eight">Roach used all the oranges for the 40 orange glaze cake</string>
+    <string name="question_nine">The Swede can\'t sing</string>
+    <string name="question_ten">Is Buttons the bird guy</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
